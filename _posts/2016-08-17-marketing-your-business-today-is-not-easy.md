@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Marketing your business today is not easy.
-datePublished: '2016-08-17T22:58:12.820Z'
-dateModified: '2016-08-17T22:58:06.784Z'
+datePublished: '2016-08-17T22:59:55.714Z'
+dateModified: '2016-08-17T22:58:52.071Z'
 title: ''
 author: []
 via: {}
 authors: []
 publisher: {}
-starred: false
 sourcePath: _posts/2016-08-17-marketing-your-business-today-is-not-easy.md
+starred: false
 url: marketing-your-business-today-is-not-easy/index.html
 _type: Article
 
